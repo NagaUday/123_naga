@@ -1,0 +1,29 @@
+2021-06-21 12:46:35 URL:https://github.com/ [224300] -> "index.html.tmp.tmp" [1]
+2021-06-21 12:46:37 URL:https://github.com/robots.txt [1481/1481] -> "robots.txt" [1]
+2021-06-21 12:46:39 URL:https://github.githubassets.com/robots.txt [1481/1481] -> "robots.txt" [1]
+2021-06-21 12:46:43 URL:https://avatars.githubusercontent.com/robots.txt [5065/5065] -> "robots.txt" [1]
+2021-06-21 12:46:46 URL:https://github-cloud.s3.amazonaws.com/robots.txt [60/60] -> "robots.txt" [1]
+https://user-images.githubusercontent.com/robots.txt:
+2021-06-21 12:46:50 ERROR 403: Forbidden.
+2021-06-21 12:46:53 URL:https://docs.github.com/robots.txt [13/13] -> "robots.txt" [1]
+2021-06-21 12:46:56 URL:https://lab.github.com/robots.txt [114/114] -> "robots.txt" [1]
+2021-06-21 12:46:59 URL:https://opensource.guide/robots.txt [46/46] -> "robots.txt" [1]
+2021-06-21 12:47:02 URL:https://github.community/robots.txt [858] -> "robots.txt" [1]
+2021-06-21 12:47:05 URL:https://education.github.com/robots.txt [204/204] -> "robots.txt" [1]
+https://stars.github.com/robots.txt:
+2021-06-21 12:47:07 ERROR 404: Not Found.
+2021-06-21 12:47:10 URL:https://enterprise.github.com/robots.txt [128] -> "robots.txt" [1]
+2021-06-21 12:47:13 URL:https://www.npmjs.com/robots.txt [832/832] -> "robots.txt" [1]
+2021-06-21 12:47:15 URL:https://apps.apple.com/robots.txt [459/459] -> "robots.txt" [1]
+2021-06-21 12:47:17 URL:https://play.google.com/robots.txt [3603] -> "robots.txt" [1]
+https://desktop.github.com/robots.txt:
+2021-06-21 12:47:19 ERROR 404: Not Found.
+2021-06-21 12:47:22 URL:https://cli.github.com/robots.txt [44/44] -> "robots.txt" [1]
+2021-06-21 12:47:24 URL:https://resources.github.com/robots.txt [50/50] -> "robots.txt" [1]
+2021-06-21 12:47:27 URL:https://partner.github.com/robots.txt [48/48] -> "robots.txt" [1]
+2021-06-21 12:47:30 URL:https://atom.io/robots.txt [204/204] -> "robots.txt" [1]
+https://www.electronjs.org/robots.txt:
+2021-06-21 12:47:33 ERROR 404: Not Found.
+2021-06-21 12:47:35 URL:https://services.github.com/robots.txt [49/49] -> "robots.txt" [1]
+https://www.githubstatus.com/robots.txt:
+2021-06-21 12:47:38 ERROR 404: Not found.
